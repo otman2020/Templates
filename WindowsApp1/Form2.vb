@@ -6,6 +6,7 @@ Public Class Form2
     Public DAdapter1 As New SqlDataAdapter(Cmd1)
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
+
         Me.Close()
     End Sub
 
